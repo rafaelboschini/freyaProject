@@ -1,0 +1,13 @@
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\bin\Debug\FreyaPrototipo.exe
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\bin\Debug\FreyaPrototipo.pdb
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\obj\Debug\FreyaPrototipo.Properties.Resources.resources
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\obj\Debug\FreyaPrototipo.csproj.GenerateResource.Cache
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\obj\Debug\FreyaPrototipo.exe
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\obj\Debug\FreyaPrototipo.pdb
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\obj\Debug\Interop.SHDocVw.dll
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\obj\Debug\FreyaPrototipo.csproj.ResolveComReference.cache
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\bin\Debug\FreyaPrototipo.exe.manifest
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\bin\Debug\FreyaPrototipo.application
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\obj\Debug\FreyaPrototipo.exe.manifest
+C:\Users\devpc\documents\visual studio 2012\Projects\WappenFreya\FreyaPrototipo\obj\Debug\FreyaPrototipo.application
+C:\Users\devpc\Documents\Visual Studio 2012\Projects\WappenFreya\FreyaPrototipo\obj\Debug\FreyaPrototipo.frmFreya.resources
